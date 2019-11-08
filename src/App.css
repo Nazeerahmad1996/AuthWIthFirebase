@@ -20,3 +20,41 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Landing-page-image{
+  height: 500px;
+  width: auto;
+}
+
+.Landing-page.container{
+}
+
+.Row-Background-Color{
+  background-color: #282c34 !important;
+  height: 100vh;
+}
+
+.Landing-page-left-Col{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Landing-page-right-Col{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Lading-page-heading{
+  color: white;
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 30pt;
+}
+
+.logo{
+  height: 55px;
+  width: auto;
+}
+
